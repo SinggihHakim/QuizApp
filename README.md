@@ -4,7 +4,8 @@
 Welcome to **QuizApp**! This is a simple, responsive, and interactive web-based quiz game built using **HTML**, **CSS**, and **Vanilla JavaScript**. It allows users to test their knowledge on various topics with instant feedback and score tracking.
 
 <div align="center">
-  <img src="https://placehold.co/600x400?text=Quiz+App+Preview" alt="Quiz App Screenshot" width="80%">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/497446bf-0f76-4cd4-af4b-2e5fa01b0ec9" /> 
+
 </div>
 
 ## 📖 Overview
